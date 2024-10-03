@@ -1,0 +1,12 @@
+# Hi there 👋
+
+🙋‍♀️ **Bienvenido!**  
+Nuestra organización construye plataformas de comercio electrónico modulares y escalables utilizando **microservicios** y **microfrontends**. Estamos desarrollando una tienda online que vende **licores**, **ropa** (camisetas), **artículos de cuidado personal** (gorros de baño) y **tecnología** (teléfonos). Aprovechando **Spring Boot**, **RabbitMQ**, **MongoDB**, **Redis**, y **Angular 17** con **Webpack 5 Module Federation**. Cada equipo se dedica a desarrollar servicios y frontends independientes, asegurando flexibilidad y eficiencia.
+
+👩‍💻 **Recursos**  
+- [Documentación](#): Instrucciones detalladas de instalación y despliegue.
+- [Guía de contribuciones](#): Instrucciones paso a paso sobre cómo contribuir.
+- [Gestor de incidencias](#): Informe de errores o solicite nuevas funciones.
+
+🍿 **Dato curioso**  
+Nuestro equipo empieza el día con una mezcla de café y arepa para alimentar la innovación!
