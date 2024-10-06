@@ -6,9 +6,8 @@ Nuestra organización construye plataformas de comercio electrónico modulares y
 </p>
 
 # 👩‍💻 **Recursos**  
-- [Documentación](#): Instrucciones detalladas de instalación y despliegue.
-- [Guía de contribuciones](https://github.com/software2uis/.github/blob/main/CONTRIBUTING.md): Instrucciones paso a paso sobre cómo contribuir.
-- [Gestor de incidencias](#): Informe de errores o solicite nuevas funciones.
+- [Documentación](../docs/general.md): Instrucciones detalladas de instalación y despliegue.
+- [Guía de contribuciones](../CONTRIBUTING.md): Instrucciones paso a paso sobre cómo contribuir.
 
 # 🍿 **Dato curioso**  
 Nuestro equipo empieza el día con una mezcla de café y arepa para alimentar la innovación.
