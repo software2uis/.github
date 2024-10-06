@@ -4,16 +4,16 @@ Bienvenido al repositorio central de documentación para los proyectos de softwa
 
 ## Índice de Documentación
 
-1. [Guía de Configuración de Repositorios](./docs/configuracion-repositorios.md)
+1. [Guía de Configuración de Repositorios](./configuracion-repositorios.md)
    - Instrucciones detalladas para crear y configurar nuevos repositorios en nuestra organización.
 
-2. [Instrucciones de Instalación](./docs/instalacion.md)
+2. [Instrucciones de Instalación](./instalacion.md)
    - Pasos para instalar y configurar el entorno de desarrollo local.
 
-3. [Guía de Despliegue](./docs/despliegue.md)
+3. [Guía de Despliegue](./despliegue.md)
    - Proceso para desplegar el proyecto completo en diferentes ambientes.
 
-4. [Guía de Contribución](./CONTRIBUTING.md)
+4. [Guía de Contribución](../CONTRIBUTING.md)
    - Directrices para contribuir a nuestros proyectos, incluyendo estándares de código y proceso de pull requests.
 
 5. [Arquitectura del Proyecto](./docs/arquitectura.md)
@@ -30,4 +30,4 @@ Bienvenido al repositorio central de documentación para los proyectos de softwa
 
 ## Soporte
 
-Si tienes preguntas o necesitas ayuda, por favor abre un issue en el repositorio correspondiente o contacta al equipo de mantenimiento en [correo@ejemplo.com](mailto:correo@ejemplo.com).
+Si tienes preguntas o necesitas ayuda, por favor abre un issue en el repositorio correspondiente o contacta al equipo de mantenimiento en [software2uis@gmail.com](mailto:software2uis@gmail.com).
