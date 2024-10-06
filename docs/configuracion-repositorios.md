@@ -25,7 +25,7 @@ Esta guía detalla el proceso de creación y configuración de los repositorios 
 
 ## Configuración de Protección de Ramas
 
-1. Configura un ruleset para proteger la rama `main`. Esto se puede hacer importando el siguiente JSON en la configuración de rulesets del repositorio:
+1. Configura un ruleset para proteger la rama `main`. Esto se puede hacer importando el siguiente [JSON](./protection.json) en la configuración de rulesets del repositorio:
 
 ```json
 {
@@ -90,7 +90,7 @@ Este ruleset:
 
 ## Estructura del README
 
-Actualiza el README de cada repositorio con la siguiente estructura (adaptándola según sea necesario):
+Actualiza el README de cada repositorio con la siguiente [estructura](https://github.com/software2uis/msv-catalogo/blob/main/README.md) (adaptándola según sea necesario):
 
 ```markdown
 # [Nombre del Repositorio]
@@ -104,22 +104,12 @@ Actualiza el README de cada repositorio con la siguiente estructura (adaptándol
 - Instala [Node.js](https://nodejs.org) que incluye [npm](https://www.npmjs.com/get-npm).
 
 ### Configuración del Proyecto
-1. Clona el repositorio:
-   ```bash
-   git clone [URL del repositorio]
-   ```
-2. Instala las dependencias:
-   ```bash
-   npm install
-   ```
-3. Ejecuta la aplicación:
-   ```bash
-   npm start
-   ```
+[Cómo clonar, instalar dependencias, qué versiones, etc.]
 
 ### Contribución
 Por favor, sigue nuestras [Guías de Contribución](https://github.com/software2uis/.github/blob/main/CONTRIBUTING.md) para conocer el proceso de envío y las reglas de codificación.
 ```
+
 
 ## Configuración de CODEOWNERS
 
@@ -186,7 +176,3 @@ jobs:
 ```
 
 Estos workflows son opcionales pero altamente recomendados para mejorar la automatización y la gestión del proyecto.
-
----
-
-Siguiendo estos pasos, asegurarás una configuración consistente y robusta para todos los repositorios de tu proyecto. Esta estructura promueve buenas prácticas de desarrollo, facilita la colaboración y mantiene un alto estándar de calidad en el código.
