@@ -6,17 +6,20 @@ Bienvenido al repositorio central de documentación para los proyectos de softwa
 
 1. [Guía de Configuración de Repositorios](./configuracion-repositorios.md)
    - Instrucciones detalladas para crear y configurar nuevos repositorios en nuestra organización.
+  
+2. [Estándares del Proyecto](./estandarizacion.md)
+   - Estándares definidos para un flujo de trabajo organizado y eficiente.
 
-2. [Instrucciones de Instalación](./instalacion.md)
+4. [Instrucciones de Instalación](./instalacion.md)
    - Pasos para instalar y configurar el entorno de desarrollo local.
 
-3. [Guía de Despliegue](./despliegue.md)
+5. [Guía de Despliegue](./despliegue.md)
    - Proceso para desplegar el proyecto completo en diferentes ambientes.
 
-4. [Guía de Contribución](../CONTRIBUTING.md)
+6. [Guía de Contribución](../CONTRIBUTING.md)
    - Directrices para contribuir a nuestros proyectos, incluyendo estándares de código y proceso de pull requests.
 
-5. [Arquitectura del Proyecto](./docs/arquitectura.md)
+7. [Arquitectura del Proyecto](./docs/arquitectura.md)
    - Visión general de la arquitectura del sistema y cómo interactúan los diferentes componentes.
 
 ## Repositorios Principales
