@@ -2,7 +2,7 @@
 Nuestra organización construye plataformas de comercio electrónico modulares y escalables utilizando **microservicios** y **microfrontends**. Estamos desarrollando una tienda online que vende **licores**, **ropa** (camisetas), **artículos de cuidado personal** (gorros de baño) y **tecnología** (teléfonos). Aprovechando **Spring Boot**, **RabbitMQ**, **MongoDB**, **Redis**, y **Angular 18** con **Webpack 5 Module Federation**. Cada equipo se dedica a desarrollar servicios y frontends independientes, asegurando flexibilidad y eficiencia.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/software2uis/.github/main/profile/arquitectura.jpeg" alt="Imagen de la arquitectura"  width="800">
+  <img src="https://raw.githubusercontent.com/software2uis/.github/main/profile/architecture.jpeg" alt="Imagen de la arquitectura"  width="800">
 </p>
 
 # 👩‍💻 **Recursos**  
