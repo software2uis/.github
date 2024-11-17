@@ -22,7 +22,7 @@ Bienvenido al repositorio central de documentación para los proyectos de softwa
 7. [Arquitectura del Proyecto](./docs/arquitectura.md)
    - Visión general de la arquitectura del sistema y cómo interactúan los diferentes componentes.
 8. [Guía de Integración de SonarQube](./docs/sonarqube.md)
-  - Paso a paso para integrar el análisis de código con SonarQube y GitHub Actions.
+     - Paso a paso para integrar el análisis de código con SonarQube y GitHub Actions.
 
 ## Repositorios Principales
 
